@@ -70,7 +70,7 @@ int main()
 			else
 			{
 				cout << "Database is empty!";
-				cout << "First add the employee data " << endl;
+				cout << "First add a employee's data " << endl;
 			}
 			break;
 		}
@@ -86,7 +86,7 @@ int main()
 			else
 			{
 				cout << "Database is empty!";
-				cout << "First add the employee data " << endl;
+				cout << "First add a employee's data " << endl;
 			}
 			break;
 		}
@@ -107,7 +107,7 @@ int main()
 			else
 			{
 				cout << "Database is empty!";
-				cout << "First add the employee data " << endl;
+				cout << "First add a employee's data " << endl;
 			}
 			break;
 		}
